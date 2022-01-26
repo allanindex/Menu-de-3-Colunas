@@ -4,6 +4,7 @@ margin: 0;
 overflow-y: hidden;
 overflow-x: hidden;
 color: white;
+font-size: 15px;
 }
 
 .sedan {
@@ -34,4 +35,12 @@ h1, p, button{
 img{
     padding-left: 50px;
     padding-top: 50px;
+}
+h1{
+    font-family: 'Big Shoulders Display',
+    cursive;
+}
+p{
+    font-family: 'Lexend Deca',
+    sans-serif;
 }
