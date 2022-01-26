@@ -5,6 +5,7 @@ overflow-y: hidden;
 overflow-x: hidden;
 color: white;
 font-size: 15px;
+background-color: hsl(0, 0%, 95%);
 }
 
 .sedan {
@@ -29,8 +30,8 @@ main{
 }
 
 h1, p, button{
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 40px;
+    margin-right: 35px;
 }
 img{
     padding-left: 50px;
@@ -43,4 +44,21 @@ h1{
 p{
     font-family: 'Lexend Deca',
     sans-serif;
+   color: hsla(0, 0%, 100%, 0.75);
+
+}
+button{
+    color: hsl(0, 0%, 95%);
+    border: 1px solid hsla(0, 0%, 100%, 0.75);
+    border-radius: 20px;
+}
+.sedan > button{
+background-color:#e38826;
+}
+.suv > button{
+background-color:#006970;
+}
+
+.luxury > button{
+background-color: #004241;
 }
