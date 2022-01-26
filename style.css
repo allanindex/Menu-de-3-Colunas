@@ -1,9 +1,17 @@
-div{
-    background-color: aqua;
-}
 body{
 padding: 0;
 margin: 0;
 overflow-y: hidden;
 overflow-x: hidden;
+color: white;
+}
+
+.sedan {
+    background-color: #e38826;
+}
+.suv{
+background-color: #006970;
+}
+.luxury{
+background-color: #004241;
 }
