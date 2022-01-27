@@ -50,12 +50,12 @@ p{
 
 }
 button{
-    font-size: 1em;
     color: #f2f2f2;
     border: 1px solid #ffffffbf;
     border-radius: 25px;
-    height: 45px;
-    width: 120px;
+    height: 43px;
+    width: 140px;
+    margin-top: 70px;
 }
 .sedan > button{
 background-color: white;
